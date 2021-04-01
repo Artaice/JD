@@ -20,4 +20,10 @@ body {
 a {
     font-size: 7em;
     color: white;
+    transition: 0.4s;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
 }
